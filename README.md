@@ -1,5 +1,7 @@
 # ProcureAgent · 知华科技采购智能体
 
+[简体中文](README.md) | [English](README.en.md)
+
 > 采购智能体整理证据，采购团队掌握谈判与定标。
 >
 > [知华科技（上海如静知华信息科技有限公司）官网](https://www.zhuatech.cn/) · 企业 AI 转型、Agent 定制、私有化部署与软件项目外包
