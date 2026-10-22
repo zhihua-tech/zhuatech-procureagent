@@ -1,5 +1,9 @@
 [简体中文](README.md) | **English**
 
+## Functional update: Comparable landed quote totals
+
+Compares complete supplier quotes in one currency using quantities, freight and a uniform tax rate; incomplete bids are flagged and excluded from comparable ranking. Available to signed-in users with editable inputs, explicit validation and JSON export. See [API, examples and limitations](docs/AI_BUSINESS_UPGRADE_20261023.md). No external model calls or automatic business changes. Existing license and contact details are retained.
+
 # ZhuaTech ProcureAgent
 
 > A source-available enterprise project by [ZhuaTech](https://www.zhuatech.cn/) for supply chain, procurement, order, warehouse, and logistics operations.
